@@ -1,0 +1,27 @@
+# EduConnect Lite - Requirements
+# 
+# This project uses ONLY Python Standard Library
+# No external dependencies required!
+#
+# Minimum Python Version: 3.7
+# Tested with: Python 3.8, 3.9, 3.10, 3.11
+#
+# Standard Library modules used:
+# - tkinter (GUI)
+# - sqlite3 (Database)
+# - http.server (Web Server)
+# - threading (Multithreading)
+# - re (Regular Expressions)
+# - json (JSON handling)
+# - csv (CSV handling)
+# - argparse (CLI arguments)
+# - os (File system)
+# - datetime (Timestamps)
+# - webbrowser (Browser integration)
+# - urllib.parse (URL parsing)
+# - socketserver (Server sockets)
+#
+# Installation:
+# 1. Ensure Python 3.7+ is installed
+# 2. No pip install needed!
+# 3. Just run: python main.py
